@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_rxr2urxr2urxr2ur" src="https://github.com/user-attachments/assets/350cee83-a886-42a7-aa31-41b34f262bbd" />## Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date :24/12/2025
 # Reg. No. 25008878
