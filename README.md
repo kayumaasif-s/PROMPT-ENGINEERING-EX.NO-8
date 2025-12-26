@@ -54,15 +54,18 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 
-# Basic prompt:Create an image that the spider man help the iron man.
+# Basic prompt:
+               Create an image that the spider man help the iron man.
 
 # output:<img width="1024" height="1024" alt="basic image" src="https://github.com/user-attachments/assets/44a3ac9b-438b-4a8d-a2b3-dfcc9c439ac9" />
 
-# First generative AI image prompt:ceate an image that the spider man wearing an iron spider nano suit and he helping to ironman in space. 
+# First generative AI image prompt:
+               Ceate an image that the spider man wearing an iron spider nano suit and he helping to ironman in space. 
 
 # output:<img width="1024" height="1024" alt="First ai iamage" src="https://github.com/user-attachments/assets/c698034c-c138-4d1b-8d8e-251fbc141722" />
 
-# Second generative AI image promt:create an image that the spider man helps to iron man and dt.strange to defeat thanos.
+# Second generative AI image promt:
+               Create an image that the spider man helps to iron man and dt.strange to defeat thanos.
 
 # output:<img width="1024" height="1024" alt="Second AI image" src="https://github.com/user-attachments/assets/45c678d7-65fa-4f19-b50b-b53441ce2b3e" />
 
